@@ -1,11 +1,11 @@
 # Ping Pong
 
-A pygame Pong clone with a menu system (image-based buttons), local two-player mode, and an AI-controlled opponent.
+A pygame Pong clone with a menu system built from images, a local mode for two players, and an opponent controlled by AI.
 
 ## Features
-- Menu UI built from clickable image buttons (`Button` class in `main.py`)
-- Core paddle/ball physics in `game_mechanics.py`
-- A simple AI opponent in `AI.py`
+- A menu built from clickable image buttons (the `Button` class in `main.py`).
+- Core paddle and ball physics in `game_mechanics.py`.
+- A simple AI opponent in `AI.py`.
 
 ## Requirements
 ```
